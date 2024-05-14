@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\bin\Debug\net8.0\FileOperations.exe
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\bin\Debug\net8.0\FileOperations.deps.json
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\bin\Debug\net8.0\FileOperations.runtimeconfig.json
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\bin\Debug\net8.0\FileOperations.dll
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\bin\Debug\net8.0\FileOperations.pdb
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\obj\Debug\net8.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\obj\Debug\net8.0\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\obj\Debug\net8.0\FileOperations.dll
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\obj\Debug\net8.0\refint\FileOperations.dll
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\obj\Debug\net8.0\FileOperations.pdb
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\obj\Debug\net8.0\FileOperations.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Homework-Back\FileOperations\obj\Debug\net8.0\ref\FileOperations.dll
